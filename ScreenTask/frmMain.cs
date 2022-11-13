@@ -243,6 +243,7 @@ namespace ScreenTask
             }
 
         }
+        
         private async Task CaptureScreenEvery(int msec)
         {
             while (isWorking)
